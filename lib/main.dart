@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:snakegame/HomeScreen.dart';
+import 'package:snakegame/Screens/HomeScreen.dart';
 
 void main() {
   runApp(const MyApp());
